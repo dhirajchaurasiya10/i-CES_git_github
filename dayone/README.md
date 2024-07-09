@@ -1,6 +1,6 @@
 # First day at github workshop
 
-- Hello world
+
 - Just started with basics
 - Commands:
     git init- initialize the directory<br>
